@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.centered {
+  text-align: left; /* Reset text alignment for the contents of the Card */
+}
+
+/* The rest of your CSS remains the same */
